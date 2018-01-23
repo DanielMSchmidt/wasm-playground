@@ -1,0 +1,14 @@
+{
+  "name": "networking",
+  "scripts": {
+      "start": "parcel index.html",
+      "watch": "parcel watch index.html",
+      "build": "parcel build index.html"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.5.0"
+  }
+}
